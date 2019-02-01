@@ -1,5 +1,6 @@
-# Copyright 2017 Mycroft AI Inc.
-#
+# Changes Copyright 2019 Neongecko Inc. | All Rights Reserved
+# Regina Bloomstine, Guy Daniels, Daniel McKnight
+# Copyright 2017 Mycroft AI Inc.#
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
